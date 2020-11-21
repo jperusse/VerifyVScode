@@ -1,11 +1,12 @@
 import sys
+import os
 
-
-def greet(name: str):
+def greetmsg(name: str):
     """
     Return greeting to name
     """
     return "Hello " + name
 
 
-print(greet("Jimbo"))
+print(greetmsg("Jimbo"))
+print(greetmsg("James"))
