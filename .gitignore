@@ -1636,5 +1636,3 @@ venv/Scripts/python.exe
 venv/Scripts/pythonw.exe
 venv/Scripts/symilar.exe
 venv/Scripts/wheel.exe
-.vscode/launch.json
-.vscode/settings.json
