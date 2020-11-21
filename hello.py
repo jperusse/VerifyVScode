@@ -1,4 +1,6 @@
 import sys
+
+
 def greet(name: str):
     """
     Return greeting to name
@@ -7,5 +9,3 @@ def greet(name: str):
 
 
 print(greet("Jimbo"))
-print(sys.executable)
-
